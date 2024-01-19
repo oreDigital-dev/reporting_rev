@@ -8,12 +8,12 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>rw.pacis_nkubito</groupId>
-    <artifactId>boilerplateSwagger</artifactId>
+    <groupId>rw.oredigital</groupId>
+    <artifactId>oreDigital</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>boilerplateSwagger</name>
-    <description>Boilerplate With Swagger</description>
+    <name>oreDigital-backend</name>
+    <description>Mineral traceability web application revolutionizing the ways of mining by increasing high transparency and efficiency </description>
     <properties>
         <java.version>1.8</java.version>
         <springfox.swagger.version>2.9.2</springfox.swagger.version>
