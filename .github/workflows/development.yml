@@ -69,4 +69,4 @@ jobs:
             sudo docker pull docker.io/valens200/oredigital-app
             sudo docker stop oredigital-app || true
             sudo docker rm oredigital-app || true
-            sudo docker run -d --name oredigital-app -p 8888:8000 docker.io/valens200/oredigital-app
+            sudo docker run -d --name oredigital-app -p 8200:8000 docker.io/valens200/oredigital-app
